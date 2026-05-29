@@ -1,2 +1,7 @@
-# demo-full-power-celeste-barone
-Demo web para Full Power Celeste Barone — diseñada por eterlab.
+# Full Power Celeste Barone
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
